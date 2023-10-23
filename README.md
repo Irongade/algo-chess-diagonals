@@ -1,4 +1,4 @@
-# algo-chess-diagonals
+# chess-diagonals
 
 This project explores the algorithmic complexities (speed and memory) of determining which two diagonals (major and minor) on a chessboard to highlight based on which tile in the board is clicked. The spirit of the workshop is to explore the tradeoffs of various optimization strategies.
 
